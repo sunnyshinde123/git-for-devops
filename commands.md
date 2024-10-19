@@ -15,4 +15,6 @@ git checkout -b branch-name
 git checkout branch-name
 git status
 git log
+git merge branch-name
+git diff branch-name
 history
