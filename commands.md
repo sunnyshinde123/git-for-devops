@@ -15,3 +15,4 @@ git checkout -b branch-name
 git checkout branch-name
 git status
 git log
+history
